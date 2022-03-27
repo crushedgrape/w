@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0x98d9a36feb9631A074c7F26534A9e7E8De64AEfe",
+  "SCAN_LINK": "https://polygonscan.com/address/0x98d9a36feb9631a074c7f26534a9e7e8de64aefe",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "Digital Kush Collection Vol 1.",
+  "SYMBOL": "DKC",
+  "MAX_SUPPLY": 1420,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "OpenSea",
+  "MARKETPLACE_LINK": "https://opensea.io/collection/digital-kush",
+  "SHOW_BACKGROUND": true
+}
